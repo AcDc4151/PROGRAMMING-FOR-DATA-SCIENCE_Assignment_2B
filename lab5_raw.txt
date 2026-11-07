@@ -1,0 +1,13 @@
+# Lab 5 marks typed by the tutor: matric | name | lab mark (out of 30)
+S101 | Aina | 24
+s102 |  ben | 20
+S103|Chong|28
+S104 | Devi | 
+
+S105 | Emir | 16
+  S106 | FARAH | 14  
+S1O7 | Gopal | 25
+S108 | Hana | 62
+S109 | Irfan | Absent
+S110 | Jun Wei | 19.5
+S111 Mei Ling 27
